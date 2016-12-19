@@ -1,0 +1,14 @@
+@import "components/cat";
+
+body {
+  font-family: "Brush Script MT", cursive;
+}
+
+$primary-color: crimson;
+
+ul {
+
+  li {
+    color: $primary-color;
+  }
+}
